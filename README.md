@@ -49,7 +49,7 @@ The chatbot can:
 ```text
 rule-based-ai-chatbot/
 │
-├── chatbot.py
+├── ai.py
 ├── README.md
 ├── requirements.txt
 └── screenshots/
