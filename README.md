@@ -1,5 +1,4 @@
-# DecodeLabes-internship
-Ai based project on rules based ai chatbot 
+
 # 🤖 Rule-Based AI Chatbot
 
 A simple Rule-Based AI Chatbot built using Python.  
